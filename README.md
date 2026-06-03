@@ -2,7 +2,7 @@ I'm Akmal
 
 **software engineering student @ UKM** 
 
-currently building [UKMStartUp](https://github.com/akmal2405/ukmstartup) — a startup idea platform for the UKM community
+currently building [UKMStartUp](https://github.com/akmal2405/ukmstartup) a startup idea platform for the UKM community
 
 
 **stack i work with**
