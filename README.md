@@ -13,4 +13,4 @@ alive
 
 **where to find me**
 
-[LinkedIn](https://linkedin.com/in/your-linkedin) · [GitHub](https://github.com/akmal2405)
+[LinkedIn](https://linkedin.com/in/akmalbahari2405) · [GitHub](https://github.com/akmal2405)
