@@ -5,7 +5,7 @@ I'm Akmal
 currently building [UKMStartUp](https://github.com/akmal2405/ukmstartup) a startup idea platform for the UKM community
 
 
-**stack i work with**
+**stack i work with** p.s i want to learn more :(  
 
 React · TypeScript · Node.js · Express · PostgreSQL · Tailwind
 
