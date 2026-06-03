@@ -9,7 +9,7 @@ currently building [UKMStartUp](https://github.com/akmal2405/ukmstartup) a start
 
 React · TypeScript · Node.js · Express · PostgreSQL · Tailwind
 
-alive
+alive; Beginner; Man United;
 
 **where to find me**
 
