@@ -1,6 +1,6 @@
 I'm Akmal 
 
-**software engineering student @ UKM** 
+**software engineering student 
 
 currently building [UKMStartUp](https://github.com/akmal2405/ukmstartup) a startup idea platform for the UKM community
 
